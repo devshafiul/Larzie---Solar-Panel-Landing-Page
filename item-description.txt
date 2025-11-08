@@ -1,0 +1,13 @@
+Introducing **Larzie - Solar Panel Landing Page**
+
+**Features**
+- 1 Landing page design
+- Desktop Version
+- Easy to Customize
+- Compatibility with Figma
+- Well Organized Layer
+- Open Source Font (Google Fonts)
+
+**Notes**
+- Please download and install fonts before opening the file.
+- Images in the main file are replaced by placeholders, all images used for demo purpose only.
